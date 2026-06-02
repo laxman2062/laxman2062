@@ -64,12 +64,12 @@ Full Stack Developer | Turning ideas into projects through code, continuous lear
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/laxmanpant" target="blank">
+<a href="https://x.com/LaxmanP85421" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 
   
-<a href="https:https://www.linkedin.com/feed/" target="blank">
+<a href="https://www.linkedin.com/in/laxmanpant/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
