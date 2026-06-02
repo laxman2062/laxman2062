@@ -54,11 +54,6 @@ Full Stack Developer | Turning ideas into projects through code, continuous lear
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 
 
