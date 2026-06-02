@@ -64,7 +64,7 @@ Full Stack Developer | Turning ideas into projects through code, continuous lear
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https:[//github.com/YOUR_USERNAME](https://x.com/LaxmanP85421)" target="blank">
+<a href="https://www.linkedin.com/in/laxmanpant" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 
