@@ -2,6 +2,8 @@
 
 <h3 align="center">
 Full Stack Developer | Turning ideas into projects through code, continuous learning, and building scalable web applications.
+
+  Started a new journey on machine learning
 </h3>
 
 ---
