@@ -51,6 +51,11 @@ Full Stack Developer | Turning ideas into projects through code, continuous lear
 </p>
 
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=laxman2062)](https://git.io/streak-stats)
+
+
 
 ---
 
