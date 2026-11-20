@@ -47,7 +47,7 @@ Full Stack Developer | Turning ideas into projects through code, continuous lear
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
 </p>
 
 
